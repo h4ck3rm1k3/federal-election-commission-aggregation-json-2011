@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00001214", "REC TYPE": "TEXT", "TEXT4000": "Amended to correct mathmatical errors in column B due to software not", "TRANSACTION ID NUMBER": "39985663", "_src_file": "2011/20110504/727365.fec_3.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3XA"});

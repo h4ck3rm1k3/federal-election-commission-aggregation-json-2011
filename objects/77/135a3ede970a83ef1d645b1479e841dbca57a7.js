@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00393033", "REC TYPE": "TEXT", "TEXT4000": "\"The campaign requests termination.  The remaining funds will pay for compliance", "TRANSACTION ID NUMBER": "X0", "_src_file": "2011/20110504/727347.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3T"});

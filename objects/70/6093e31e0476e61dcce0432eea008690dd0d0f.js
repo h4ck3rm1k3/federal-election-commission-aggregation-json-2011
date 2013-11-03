@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00286187", "REC TYPE": "TEXT", "TEXT4000": "This amendment corrects a series of mistakes in disbursement categorization", "TRANSACTION ID NUMBER": "T3-10/13/2010", "_src_file": "2011/20110411/721439.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3A"});

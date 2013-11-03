@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00440644", "REC TYPE": "TEXT", "TEXT4000": "Our committee is operated by volunteers and has low overhead costs.", "TRANSACTION ID NUMBER": "F3XA-20110411", "_src_file": "2011/20110411/721749.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3XA"});

@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00459792", "REC TYPE": "TEXT", "TEXT4000": "(Current loan balance of 1028.35 has been forgiven)", "TRANSACTION ID NUMBER": "SA13A.4674.TEXT", "_src_file": "2011/20110411/721725.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "SA13A.4674", "BACK REFERENCE SCHED / FORM NAME": "SA13A"});

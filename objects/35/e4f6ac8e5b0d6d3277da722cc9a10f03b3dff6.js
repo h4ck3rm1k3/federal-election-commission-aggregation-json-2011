@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00343459", "REC TYPE": "TEXT", "TEXT4000": "Dr. Carolyn Meltzer''s $5,000 contribution was not recorded at the end", "TRANSACTION ID NUMBER": "39985070", "_src_file": "2011/20110504/727350.fec_2.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3XA"});

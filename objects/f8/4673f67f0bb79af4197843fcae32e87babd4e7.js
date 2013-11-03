@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00383927", "REC TYPE": "TEXT", "TEXT4000": "Amended in response to the request for additional information, dated Apirl", "TRANSACTION ID NUMBER": ".TEXT", "_src_file": "2011/20110504/727337.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F1A"});

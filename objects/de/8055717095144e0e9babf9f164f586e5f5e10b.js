@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00254490", "REC TYPE": "TEXT", "TEXT4000": "Amendment is to include memo entries.  Payroll list on H4 is for payroll", "TRANSACTION ID NUMBER": "F3XA-20110411", "_src_file": "2011/20110411/721713.fec_1.yml", "BACK REFERENCE TRAN ID NUMBER": "", "BACK REFERENCE SCHED / FORM NAME": "F3XA"});

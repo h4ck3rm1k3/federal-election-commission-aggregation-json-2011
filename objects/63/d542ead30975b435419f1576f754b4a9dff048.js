@@ -1,0 +1,1 @@
+mycallback( {"_record_type": "fec.version.v7_0.TEXT", "FILER COMMITTEE ID NUMBER": "C00461061", "REC TYPE": "TEXT", "TEXT4000": "Partnership: In-kind", "TRANSACTION ID NUMBER": "TNONB9129", "_src_file": "2011/20110504/727410.fec_3.yml", "BACK REFERENCE TRAN ID NUMBER": "NONB9129", "BACK REFERENCE SCHED / FORM NAME": "SB17"});
